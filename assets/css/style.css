@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    
+}
+header{
+    margin: auto;
+    max-width: 1280px;
+    height: 505px;
+    background-repeat: no-repeat;
+}
+#img0{
+    background-image: url(/assets/images/Header\ \(1\).png);
+
+}
+main{
+    max-width: 100%;
+    height: 2050px;
+
+}
+
+#img1{
+    background-image: url(/assets/images/Section\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 428px;
+    height: 573px;
+}
+#img2{
+    background-image: url(/assets/images/Section\ 2\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 428px;
+    height: 507px;
+}
+#img3{
+    background-image: url(/assets/images/Section\ 3\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 428px;
+    height: 507px;
+}
+#img4{
+    background-image: url(/assets/images/Section\ 4\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 428px;
+    height: 560px;
+}
+@media screen and (min-width:435px){
+    #img0{
+        background-image: url(/assets/images/Header.png);
+        
+    }
+    #img1{
+        background-image: url(/assets/images/Section\ 1.png);
+        background-repeat: no-repeat;
+        width: 1280px;
+        height: 573px;
+        margin: auto;
+    }
+    #img2{
+        background-image: url(/assets/images/Section\ 2.png);
+        background-repeat: no-repeat;
+        width: 1280px;
+        height: 507px;
+        margin: auto;
+    }
+    #img3{
+        background-image: url(/assets/images/Section\ 3.png);
+        background-repeat: no-repeat;
+        width: 1280px;
+        height: 507px;
+        margin: auto;
+    }
+    #img4{
+        background-image: url(/assets/images/Section\ 4.png);
+        background-repeat: no-repeat;
+        width: 1280px;
+        height: 744px;
+        margin: auto;
+    }
+    
+}
